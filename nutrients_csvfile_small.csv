@@ -1,0 +1,17 @@
+Food,Measure,Grams,Calories,Protein,Fat,Sat.Fat,Fiber,Carbs,Category
+skim. milk,1 cup,250,128,18,4,3,1,13,Dairy products
+Eggs Scrambled or fried,2,128,220,13,16,14,0,1,Dairy products
+Olive oil,1T.,14,125,0,14,3,0,0,"Fats, Oils, Shortenings"
+Steak,3 oz.,85,330,20,27,25,0,0,"Meat, Poultry"
+Salmon,3 oz.,85,120,17,5,1,0,0,"Fish, Seafood"
+Carrots,1 cup,150,45,1,t,0,0.9,10,Vegetables A-E
+Lettuce,1/4 head,100,14,1,t,0,0.5,2,Vegetables F-P
+"Apples, raw",1 med,130,70,t,t,0,1,18,Fruits A-F
+"White, 20 slices, or",1-lb. loaf,454,1225,39,15,12,9,229,"Breads, cereals, fastfood,grains"
+Pumpkin Pie,1 slice,130,265,5,12,11,8,34,"Desserts, sweets"
+Ice cream,1 cup,188,300,6,18,16,0,29,Dairy products
+chicken,3 oz.,85,185,23,9,7,0,0,"Meat, Poultry"
+Shrimp,3 oz.,85,110,23,1,0,0,0,"Fish, Seafood"
+Avocado,1/2 large,108,185,2,18,12,1.8,6,Fruits A-F
+chicken soup,1 cup,250,75,4,2,2,0,10,Soups
+Milk chocolate,2-oz. bar,56,290,2,6,6,0.2,44,"Desserts, sweets"
