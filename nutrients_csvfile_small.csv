@@ -7,7 +7,6 @@ Salmon,3 oz.,85,120,17,5,1,0,0,"Fish, Seafood"
 Carrots,1 cup,150,45,1,t,0,0.9,10,Vegetables A-E
 Lettuce,1/4 head,100,14,1,t,0,0.5,2,Vegetables F-P
 "Apples, raw",1 med,130,70,t,t,0,1,18,Fruits A-F
-"White, 20 slices, or",1-lb. loaf,454,1225,39,15,12,9,229,"Breads, cereals, fastfood,grains"
 Pumpkin Pie,1 slice,130,265,5,12,11,8,34,"Desserts, sweets"
 Ice cream,1 cup,188,300,6,18,16,0,29,Dairy products
 chicken,3 oz.,85,185,23,9,7,0,0,"Meat, Poultry"
@@ -15,3 +14,16 @@ Shrimp,3 oz.,85,110,23,1,0,0,0,"Fish, Seafood"
 Avocado,1/2 large,108,185,2,18,12,1.8,6,Fruits A-F
 chicken soup,1 cup,250,75,4,2,2,0,10,Soups
 Milk chocolate,2-oz. bar,56,290,2,6,6,0.2,44,"Desserts, sweets"
+Hamburger,3 oz.,85,245,21,17,15,0,0,"Meat, Poultry"
+Bacon,2 slices,16,95,4,8,7,0,1,"Meat, Poultry"
+Roast beef,3 oz.,85,390,16,36,35,0,0,"Meat, Poultry"
+Lobster,aver.,100,92,18,1,0,0,t,"Fish, Seafood"
+Asparagus,6 spears,96,18,1,t,t,0.5,3,Vegetables A-E
+Cauliflower,1 cup,120,30,3,t,0,1,6,Vegetables A-E
+Blueberries,1 cup,250,245,1,t,0,2,65,Fruits A-F
+Grapes,1 cup,153,70,1,t,0,0.8,16,Fruits G-P
+Whole-wheat,1 slice,23,55,2,1,0,0.31,11,"Breads, cereals, fastfood,grains"
+Cornflakes,1 cup,25,110,2,t,0,0.1,25,"Breads, cereals, fastfood,grains"
+Oatmeal,1 cup,236,150,5,3,2,4.6,26,"Breads, cereals, fastfood,grains"
+Sponge cake,1 slice,40,115,3,2,2,0,22,"Desserts, sweets"
+Doughnuts,1,33,135,2,7,4,t,17,"Desserts, sweets"
