@@ -1,4 +1,11 @@
 # CSE-543T-Final-Project
+
+# File Description
++ nutrients.ipynb: main code. Lenient constraint on the item type (possible to select more types of item than item type constraint)
++ nutrients_Strict_Constraints.ipyng: Strict constraint on the item type
++ nutrients_csvfile.csv: the full dataset
++ nutrients_csvfile_small.csv: a small part of nutrients_csvfile.csv that used for experiement
+
 # Environment and Libraries
 
 This project requires Python 3 and the following Python libraries installed:
@@ -8,6 +15,14 @@ This project requires Python 3 and the following Python libraries installed:
 * SciPy
 
 Need to have software installed to run and execute a Jupyter Notebook
+
+# Parameters that can be changed
+The personal information can be inputted to get personal results. In the In [13] of nutrients.ipynb, it has a line of code:
+```
+required_calories=calculate_required_calories(83,180,23,"male",1.3)
+```
+
+The parameters of calculate_required_calories function are weight(kg), height(cm), age(year), gender("male"|"female"), activity factor (1~2 from no physical activity to heavy activity). These parameters can be set as the user's information to get his personal recommendation diets.
 
 # Code Structure
 
