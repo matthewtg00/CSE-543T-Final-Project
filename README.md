@@ -3,3 +3,7 @@
  WE define the food taste score and preference score for each item.
  Based on this we developed the objective function as the sum of difference between actual percentage and optimal percentage regarding carbohydrate, fat and protein and developed several constraints. 
  We then used 6 different solvers from Scipy package to solve our optimization problems.
+
+# Instructions on running the program
+* The code is written in .ipynb files(Jupyter Notebook).
+* Apart from Jupyter Notebook, other IDEs like VS Code, JupyterLab, PyCharm, etc., are also supported to run this program.
