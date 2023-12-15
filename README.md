@@ -25,6 +25,8 @@ required_calories=calculate_required_calories(83,180,23,"male",1.3)
 The parameters of calculate_required_calories function are weight(kg), height(cm), age(year), gender("male"|"female"), activity factor (1~2 from no physical activity to heavy activity). These parameters can be set as the user's information to get his personal recommendation diets.
 
 # Code Structure
+There are two code files: nutrients and nutrients_Strict_Constraints. In nutirent, we used a relaxed constraint in items_constraint_upper constraint. In nutrients_Strict_Constraints, we used a strict constraint for the sigmoid function in the items_constraint_upper cosntraint. 
+
 
 The code is structured as follows:
 
