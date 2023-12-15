@@ -3,9 +3,9 @@
 
 This project requires Python 3 and the following Python libraries installed:
 
-*-* NumPy
-*-* Pandas
-*-* SciPy
+* NumPy
+* Pandas
+* SciPy
 
 Need to have software installed to run and execute a Jupyter Notebook
 
