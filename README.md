@@ -5,5 +5,5 @@
  We then used 6 different solvers from Scipy package to solve our optimization problems.
 
 # Instructions on running the program
-* The code is written in .ipynb files(Jupyter Notebook).
-* Apart from Jupyter Notebook, other IDEs like VS Code, JupyterLab, PyCharm, etc., are also supported to run this program.
+ The code is written in .ipynb files(Jupyter Notebook).
+Apart from Jupyter Notebook, other IDEs like VS Code, JupyterLab, PyCharm, etc., are also supported to run this program.
